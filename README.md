@@ -3,6 +3,7 @@ Female Replacement Intelligent Digital Assistant Youth
 The evolution of AI from a sophisticated helper (J.A.R.V.I.S.) to a hyper-specialized, combat-ready operational partner.
 Since F.R.I.D.A.Y. is highly visual, we will build a single, complete HTML application that looks like a futuristic Heads-Up Display (HUD) and integrates the necessary services (Firebase for memory and the Gemini API for intelligence and voice).
 Protocol: Proactive AI Tactical Assistant
+
 🚀 Project Overview - 
 This project is a modern implementation of Tony Stark's F.R.I.D.A.Y. (Female Replacement Intelligent Digital Assistant Youth), representing the evolution of AI from a sophisticated helper (J.A.R.V.I.S.) to a proactive, tactical, and memory-aware operational partner.
 Unlike standard conversational AIs, the F.R.I.D.A.Y. Protocol is built to anticipate user needs, operate on persistent memory, and provide real-time, grounded intelligence. The entire application is contained within a single index.html file, incorporating all HTML, CSS, and JavaScript.
